@@ -26,9 +26,9 @@ Erik Alves
 
 ___________________________________________________________________________________________
 
-# Aula 2 PYTHON🚀
+# Aula 3 PYTHON🚀
 
-Nesta aula aprendemos sobre variaveis, tipos de variaveis, variaveis primitivas.
+Nesta aula aprendemos assuntos relacionados a variaveis e condicionais, mesclamos If () e For ().
 
 # 🔌Como fazer funcionar na sua máquina:
 
